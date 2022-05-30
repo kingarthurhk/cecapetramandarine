@@ -48,7 +48,7 @@ p {
 
 .main-logoText {
 	position: absolute;
-	left: -99999px;
+	/* left: -99999px; */
 }
 
 .main-logoSVG {
@@ -251,6 +251,7 @@ p {
 /* Services Page */
 .banner--services {
 	background: center 7.5em url(../images/ServicesHouse.png) no-repeat;
+	
 }
 
 #services-page {
